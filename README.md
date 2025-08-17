@@ -1,10 +1,10 @@
 # 🤖 Teamsbot - Software Installation Assistant
 
-## Video Link 
-https://drive.google.com/file/d/1a4Wf237mxQOd7GslngRsiFpR8-8uvLad/view?usp=sharing
-
 A **Streamlit + LangGraph + Groq-powered chatbot** that automates software installation requests.  
 It follows an **agentic workflow** where the LLM can decide when to call tools for handling tasks.
+
+### Video Link 
+https://drive.google.com/file/d/1a4Wf237mxQOd7GslngRsiFpR8-8uvLad/view?usp=sharing
 
 ---
 
